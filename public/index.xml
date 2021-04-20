@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAO Assignment</title>
+    <link>https://awaisaslam186.github.io/</link>
+    <description>Recent content on CAO Assignment</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Apr 2021 18:11:45 +0500</lastBuildDate><atom:link href="https://awaisaslam186.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Explanation( Click to view )</title>
+      <link>https://awaisaslam186.github.io/assignment/os/</link>
+      <pubDate>Thu, 15 Apr 2021 18:11:45 +0500</pubDate>
+      
+      <guid>https://awaisaslam186.github.io/assignment/os/</guid>
+      <description>You can find code of 64-bit OS on my git repository     (https://github.com/zeeshan123-ops/OS)   Here is the explanation:    i first built a 32-bit operating system and then converted it into 64-bit.
+Software Used:    - Softwares   Docker for creating our build-environment. Qemu(To emulate the enviroment ) nasm ( Installe dby running comands in docker file )  DOCKER    what is docker ?</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://awaisaslam186.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://awaisaslam186.github.io/about/</guid>
+      <description>Personal Info
+==============================================
+  Name - - - - - - - - -&amp;gt; Muhammad Zeeshan      Class - - - - - - - - &amp;gt; BSCS 9B      CMS - - - - - - - - - -&amp;gt; 282442      ==============================================
+Adress    Zakaria Hostel NUST,H12 Islamabad
+==============================================
+Education     2019-2023 (expected) BS, Computer Science; NUST (Islamabad) 2017-2019 FSC; Masoomeen college for advanced sciences (Chiniot)  ==============================================</description>
+    </item>
+    
+  </channel>
+</rss>

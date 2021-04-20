@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on CAO Assignment</title>
+    <link>https://awaisaslam186.github.io/assignment/</link>
+    <description>Recent content in Assignments on CAO Assignment</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Apr 2021 18:11:45 +0500</lastBuildDate><atom:link href="https://awaisaslam186.github.io/assignment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Explanation( Click to view )</title>
+      <link>https://awaisaslam186.github.io/assignment/os/</link>
+      <pubDate>Thu, 15 Apr 2021 18:11:45 +0500</pubDate>
+      
+      <guid>https://awaisaslam186.github.io/assignment/os/</guid>
+      <description>You can find code of 64-bit OS on my git repository     (https://github.com/zeeshan123-ops/OS)   Here is the explanation:    i first built a 32-bit operating system and then converted it into 64-bit.
+Software Used:    - Softwares   Docker for creating our build-environment. Qemu(To emulate the enviroment ) nasm ( Installe dby running comands in docker file )  DOCKER    what is docker ?</description>
+    </item>
+    
+  </channel>
+</rss>
